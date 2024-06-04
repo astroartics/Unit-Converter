@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="units">
+    <item>Inches</item>
+    <item>Feet</item>
+    <item>Metre</item>
+    <item>Millimetre</item>
+    <item>Centimetre</item>
+    </string-array>
+
+    <string name="app_name1">Unit Converter</string>
+    <string-array name="units1">
+        <item>Inches</item>
+        <item>Metre</item>
+        <item>Millimetre</item>
+        <item>Centimetre</item>
+    </string-array>
+
+    <string name="app_name2">Unit Converter</string>
+    <string-array name="units2">
+        <item>Feet</item>
+        <item>Metre</item>
+        <item>Millimetre</item>
+        <item>Centimetre</item>
+    </string-array>
+
+    <string name="app_name3">Unit Converter</string>
+    <string-array name="units3">
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Millimetre</item>
+        <item>Centimetre</item>
+    </string-array>
+
+    <string name="app_name4">Unit Converter</string>
+    <string-array name="units4">
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Metre</item>
+        <item>Centimetre</item>
+    </string-array>
+
+    <string name="app_name5">Unit Converter</string>
+    <string-array name="units5">
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Metre</item>
+        <item>Millimetre</item>
+    </string-array>
+</resources>
